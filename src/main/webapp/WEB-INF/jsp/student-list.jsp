@@ -7,7 +7,7 @@
 <body>
     <h1>Student Management</h1>
     <p>
-        <a href="/students/new">Add New Student</a>
+        <a href="/new">Add New Student</a>
     </p>
 </body>
 </html>

@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.example.jspcrud1.entity.Student;
 
 @Controller
-@RequestMapping("/students")
+@RequestMapping("/")
 public class StudentController {
 
     private final StudentRepository studentRepository;
